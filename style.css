@@ -574,3 +574,6 @@ footer p{
 	text-align: center;
 	margin-top: 20PX;
 }
+.footlink:hover{
+color: #dd4b39;
+}
